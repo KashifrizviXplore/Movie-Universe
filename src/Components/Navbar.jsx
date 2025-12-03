@@ -46,7 +46,7 @@ export const SearchIcon = ({
   );
 };
 
-export default function () {
+export default function() {
   return (
     <Navbar isBordered className="bg-[#1d1d1d] flex fixed ">
       <NavbarContent>

@@ -19,7 +19,7 @@ function Movies({ searchTerm = "", filters = {} }) {
       order_by = "date_added",
     } = filters;
 
-    let url = `https://yts.mx/api/v2/list_movies.json?page=${pageNumber}`;
+    let url = `https://yts.lt/api/v2/list_movies.json?page=${pageNumber}`;
 
     if (searchTerm.trim() !== "") url += `&query_term=${searchTerm}`;
     if (genre !== "") url += `&genre=${genre}`;
