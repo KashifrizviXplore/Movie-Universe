@@ -5,7 +5,7 @@ A fast and modern movie discovery app built with React (Vite), HeroUI, and the Y
 🎨 Beautiful UI with HeroUI
 
 🎥 Live movie data from YTS API
-https://yts.mx/api
+https://yts.lt/api
 
 ⚡ Fast development with React + Vite
 
@@ -47,4 +47,4 @@ https://www.heroui.com/
 🎥 API Used
 
 Data fetched from the YTS API:
-https://yts.mx/api
+https://yts.lt/api
